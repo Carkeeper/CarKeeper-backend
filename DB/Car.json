@@ -1,0 +1,94 @@
+[
+  {
+    "Id": "12-353-858",
+    "Brand": "Honda",
+    "BrandType": "Jazz",
+    "Model": 2010,
+    "Color": "Grey",
+    "EngineCode": "12BC",
+    "Owners": [
+      {
+        "Type": "private"
+      },
+      {
+        "Type": "Leasing"
+      }
+    ],
+    "Mileage": 110536,
+    "Category": "Small Family",
+    "OwnerId": 3322123
+  },
+  {
+    "Id": "11-373-858",
+    "Brand": "Audi",
+    "BrandType": "A6",
+    "Model": 2012,
+    "Color": "White",
+    "EngineCode": "15CC",
+    "Owners": [
+      {
+        "Type": "private"
+      }
+    ],
+    "Mileage": 68536,
+    "Category": "Executive",
+    "OwnerId": 3422153
+  },
+  {
+    "Id": "15-253-958",
+    "Brand": "Toyota",
+    "BrandType": "Corolla",
+    "Model": 2014,
+    "Color": "Grey",
+    "EngineCode": "14DC",
+    "Owners": [
+      {
+        "Type": "Private"
+      },
+      {
+        "Type": "Private"
+      },
+      {
+        "Type": "Rent"
+      }
+    ],
+    "Mileage": 183536,
+    "Category": "Family",
+    "OwnerId": 4263945
+  },
+  {
+    "Id": "22-753-828",
+    "Brand": "Seat",
+    "BrandType": "Ibiza",
+    "Model": 2015,
+    "Color": "purple",
+    "EngineCode": "11B6",
+    "Owners": [
+      {
+        "Type": "private"
+      },
+      {
+        "Type": "private"
+      }
+    ],
+    "Mileage": 100236,
+    "Category": "Super Mini",
+    "OwnerId": 3273996
+  },
+  {
+    "Id": "35-228-900",
+    "BrandType": "Mazda",
+    "Model": 2017,
+    "model": "CX-5",
+    "Color": "White",
+    "EngineCode": "10GC",
+    "Owners": [
+      {
+        "Type": "private"
+      }
+    ],
+    "Mileage": 32536,
+    "Category": "4X4",
+    "OwnerId": 5349468
+  }
+]
