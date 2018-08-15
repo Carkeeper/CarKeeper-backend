@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Carkeeper/CarKeeper-backend#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "mongoose": "^5.2.7"
+    "mongoose": "^5.2.7",
+    "npm": "^6.3.0"
   }
 }
