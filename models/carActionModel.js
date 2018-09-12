@@ -8,9 +8,7 @@ const carActionSchema = mongoose.Schema({
     pictures: String, //file[]
     milageAtThatTime: Number,
     partsAffected: String, //string[]
-    actionProviderName: String,
-    actionProviderPhone: String,
-    actionProviderAdress: String
+    actionProviderId: mongoose.Schema.Types.ObjectId,
 });
 
 module.exports = mongoose.model('carAction', carActionSchema);
