@@ -8,3 +8,4 @@ const actionProviderSchema = mongoose.Schema({
 });
 
 module.exports = mongoose.model('actionProvider', actionProviderSchema);
+
